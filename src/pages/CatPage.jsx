@@ -17,11 +17,6 @@ const CatPageWrapper = styled.div`
     border-radius: 1rem;
     border: none;
     cursor: pointer;
-
-    position: fixed;
-    bottom: 20px;
-    left: 50%;
-    transform: translateX(-50%);
   }
 `;
 
