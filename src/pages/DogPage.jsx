@@ -4,7 +4,7 @@ import { DogLoader } from "../components/loadings/DogLoading";
 
 const DogPageWrapper = styled.div`
   img {
-    max-width: 100vh;
+    max-width: 100%;
     height: 70vh;
   }
   button {
